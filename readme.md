@@ -13,18 +13,14 @@
 
 ### **文件结构**
 
-│  index.js						功能入口
-│  package-lock.json	  依赖配置文件
-│  package.json			   依赖配置文件
-│  readme.md				 项目介绍
-│  vercel.json					Vercel配置文件
-│
-├─api				api路径文件夹
-│      text.js		文本问答函数
-│
-└─testAPI		 测试文件夹（非必须）
-        get.py		get请求测试（非必须）
-        post.py	 post请求测试（非必须）
+- index.js		功能入口
+- package-lock.json	依赖配置文件
+- package.json		依赖配置文件
+- readme.md		项目介绍
+- vercel.json		Vercel配置文件
+- api			api路径文件夹
+- testAPI		测试文件夹（非必须）
+
 
 
 
